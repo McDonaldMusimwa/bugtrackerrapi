@@ -88,9 +88,9 @@ Operations RESTApi for day to day tasks.
 
 
 ## Setup
-type npm install
+click marven reload project to download dependencies
 
-type npm start
+click run 
 
 
 
